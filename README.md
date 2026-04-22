@@ -23,7 +23,7 @@
 - 🔭 Currently building: **AIML Explainer** — a full-stack ML interpretability platform
 - 🌱 Deepening skills in: System Design, Distributed Systems, AWS
 - 💬 Ask me about: Java, Python, Spring Boot, Flask, REST APIs, or anything backend
-- 🎹 Fun fact: I play piano and lead worship at my church 🎶
+- 🎹 Fun fact: I play piano, tennis ball, and lead worship at my church 🎶
 
 ---
 
