@@ -66,8 +66,6 @@
 | Project | Description | Stack |
 |---|---|---|
 | [🧠 AIML Explainer](https://github.com/Gloria-Naomi/aiml-explainer) | Full-stack ML interpretability platform with SHAP & LIME visualizations | Python, Flask, SQLite, JS |
-| [📞 Telecom Billing System](https://github.com/Gloria-Naomi/telecom-billing) | Scalable backend for high-volume billing, account management & transactions | Java, Spring Boot, PostgreSQL |
-| [💼 Find My Job App](https://github.com/Gloria-Naomi/find-my-job) | Full-stack job search app with real-time sync | Node.js, Flutter, Firebase |
 
 ---
 
